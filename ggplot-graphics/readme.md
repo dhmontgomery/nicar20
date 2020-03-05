@@ -132,8 +132,8 @@ p + scale_color_manual(values = c("darkred", "lightblue", "#2ca25f", "#feb24c"))
 
 You’ll notice this can accept both R’s built-in color names (you can see
 an exhaustive list of them
-[here](chrome-extension://oemmndcbldboiebfnladdacbdfmadadm/http://www.stat.columbia.edu/~tzheng/files/Rcolor.pdf)),
-or hex codes.
+[here](http://www.stat.columbia.edu/~tzheng/files/Rcolor.pdf)), or hex
+codes.
 
 It can also accept R objects, which is useful if you have a regular
 color palette you use over and over:
